@@ -2,9 +2,6 @@
 
 This project is a Mutual Funds Analysis tool that provides various graphs representing different investment scenarios. The tool is designed to help users understand the performance of various mutual funds over time, and even compare them aginst indices. Various indices can also be compared against each other.
 
-## Website
-
-Hosted at [https://asrajavel.github.io/mf-analysis/](https://asrajavel.github.io/mf-analysis/)
 
 ## Graphs
 
