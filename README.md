@@ -14,7 +14,6 @@ The tool provides the following types of graphs:
 - Lumpsum Rolling Absolute Value
 - Standard Deviation Rolling Annualized Monthly
 
-Details about each graph can be found in the [wiki](https://asrajavel.github.io/mf-analysis/wiki.html).
 
 Each graph represents a different investment scenario and provides insights into the performance of the mutual funds. The data can be alaysed for differnt rolling time periods - 1, 3, 5 and 10 years.
 
